@@ -1,0 +1,156 @@
+.frist{
+    display: flex;
+
+    margin-left: 10px;
+}
+h3 {
+  font-size: 14px; /* Définir la taille de la police à 18 pixels */
+  font-style: italic; /* Définir le style de la police en italique */
+}
+
+.text h3{
+    margin-left: 10px;
+}
+
+  .containre{
+
+    display: flex;
+    margin-left: 150px;
+
+
+
+  }
+  .all .second h3 {
+    margin-left: 10px;
+  }
+  .radio1 Card{
+
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+  .radio1,
+  .radio2 {
+    width: calc(88% - -90px);
+    margin-bottom: 5px; /* Adjusted margin-bottom value */
+
+  }
+  .radio3,
+  .radio4 {
+    width: calc(70% - -70px);
+    margin-bottom: 5px;
+    margin-left: 100px;
+    /* Adjusted margin-bottom value */
+  }
+  .note {
+    display: flex;
+    width: calc(70% - -70px);
+    margin-left: 10px;
+    background-color: transparent; /* Set the background color to transparent */
+  }
+
+  .note h3 {
+    margin-left: 10px;
+    background-color: transparent; /* Set the background color to transparent */
+  }
+label {
+
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+
+  }
+
+  .option{
+    display: flex;
+ width: calc(70% - -70px);
+    margin-left: 10px;
+}
+.option h3{
+    margin-left: 10px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Ajout de la bordure arrondie */
+    padding: 20px;
+    width: 300px;
+  }
+  .content2 {
+    margin-bottom: 10px;
+
+  }
+  .textfaild{
+ margin-left: 35px;
+
+  }
+  .title {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+
+
+  .Stack
+  {
+    text-align: center;
+    background-color: rgb(44, 41, 41);
+
+  }
+
+
+
+  .buttons {
+ display: flex;
+  }
+
+  .arrow-up,
+  .arrow-down {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #ccc;
+    /* Autres styles pour les flèches */
+  }
+  .option{
+    display: felx ;
+  }
+.all4{
+      display: flex;
+
+
+
+
+}
+.mv{
+    margin-left: 100px;
+
+}
+.live{
+    margin-left: 120px;
+}
+.movie{
+    margin-left: 140px;
+}
+.adult{
+display: flex;
+}
+.adult .forms{
+  display: flex;
+ margin-left: 70px;
+}
+.submit{
+    margin-left: 315px;
+}
